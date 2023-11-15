@@ -1,0 +1,12 @@
+{
+  "name": "tutorial_yt_rajat_designpattern_pom_cypress_js",
+  "version": "1.0.0",
+  "description": "This project is a Tutorial for Page Object Model Design Pattern implementation using Cypress and Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rajat Verma",
+  "license": "ISC"
+}
