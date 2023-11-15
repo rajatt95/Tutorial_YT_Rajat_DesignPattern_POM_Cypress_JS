@@ -15,9 +15,11 @@
 
 /// <reference types="cypress" />
 
-// Importing page objects
+// Importing page objects and components
 import loginPage from '../../support/pages/LoginPage'
 import productsPage from '../../support/pages/ProductsPage'
+import header from '../../support/pages/components/Header'
+import footer from '../../support/pages/components/Footer'
 
 
 /**
@@ -43,6 +45,10 @@ describe('Sauce Demo - [LOGIN]', () => {
 
     // Verify successful login on the Products Page
     productsPage.elements.heading_products().should('have.text', 'Products')
+
+    // Verify common components on the page
+    header.elements.logo_application().should('have.text', 'Swag Labs')
+    footer.elements.msg_copyright().should('include.text', ' Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy')
 
   })
   
