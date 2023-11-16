@@ -1,10 +1,29 @@
- 
+<!--
+    #/**
+    # * @author Rajat Verma
+    # * Email: rajatvermaa95@gmail.com
+    # * GitHub Profile: https://github.com/rajatt95
+    # * GitHub Page: https://rajatt95.github.io/
+    # * LinkedIn: https://www.linkedin.com/in/rajatt95/
+    # * Topmate: https://topmate.io/rajatt95
+    # * Telegram: https://t.me/rajatt95
+    # * Instagram: https://www.instagram.com/rajattvermaa95/
+    # * YouTube: https://www.youtube.com/@rajatt95
+    # * WhatsApp Community: https://chat.whatsapp.com/DVRP0ViD0YwELUKF2XMJHy
+    # * WhatsApp Channel: https://whatsapp.com/channel/0029Va9XXMhJ93waOU5Xer3r
+    # */
+    #/***************************************************/
+--> 
 ---
-# Tutorial | Page Object Model (POM) 
+# 💻 Tutorial | Page Object Model (POM) 
 
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js.org/index.html)
 
-## Table of Contents
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Page Object Model](https://img.shields.io/badge/Page_Object_Model-4285F4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA5klEQVR42mJ8/vz8PwMxgAO4BMZcA5xggnIKCAkw4IACZpMHwBwD6EIAOMmQFQBzF8HlACMwMFAHMRgD8GVMH8CZAAAAAElFTkSuQmCC)](https://en.wikipedia.org/wiki/Page_Object_Model)
+
+
+## 📑 Table of Contents
 
 - [Introduction](#introduction)
 - [Video Tutorial](#video-tutorial)
@@ -17,21 +36,21 @@
 - [Technical Documents](#technical-documents)
 - [Contacts](#contacts)
 
-## Introduction
+## 📖 Introduction
 This repository contains a Tutorial for Page Object Model (POM) design pattern implementation using Cypress and Javascript for automated testing of web applications.
 
-## Video Tutorial
+## 🎥 Video Tutorial
 
 <a href="https://www.youtube.com/watch?v=xVlSLhB3VcA"> <img src="https://img.youtube.com/vi/xVlSLhB3VcA/0.jpg" alt="Tutorial | POM | Selenium WebDriver + Java" width="200"> </a>
 
 Click on the image above to watch the tutorial.
 
-## Prerequisites
+## 🛠️ Prerequisites
 
 - [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) (v18.16.1 or higher recommended)
 - [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/) (v9.5.1 or higher recommended)
 
-## Getting Started
+## ▶️ Getting Started
 
 1. Clone the repository:
 
@@ -51,7 +70,7 @@ Click on the image above to watch the tutorial.
    npm install
    ```
 
-## Running Tests
+## 🚀 Running Tests
 
 - Open Cypress Test Runner:
 
@@ -82,7 +101,7 @@ Click on the image above to watch the tutorial.
   npm run cy:tests:ELECTRON:HEADLESS
   ```
 
-## Project Structure
+## 📁 Project Structure
 
 The tests follow a modular and maintainable structure:
 
@@ -110,12 +129,12 @@ The tests follow a modular and maintainable structure:
 - `cypress/support/pages`: Contains the Page Object Model (POM) classes representing web pages and their elements.
 - `cypress/plugins`: Contains plugins used by Cypress.
 
-## Configuration
+## ⚙️ Configuration
 
 - Modify `cypress.config.json` for Cypress configuration settings.
 - Customize `commands.js` and other files in `cypress/support` for reusable commands.
 
-## Other Projects
+## 🔭 Other Projects
 
 - [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/stars/rajatt95/lists/programming-language-java)  - 
   [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/stars/rajatt95/lists/selenium-automation-frameworks)
@@ -129,13 +148,11 @@ The tests follow a modular and maintainable structure:
 - [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/stars/rajatt95/lists/programming-language-python) -
   [![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/stars/rajatt95/lists/requests-automation-framework)
 
-## Technical Documents
+## 📄 Technical Documents
 - [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1tne9pZjgWvfrS0l9tVHs6k1jnQHpTLoA?usp=sharing)
 - [![GitHub Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajatt95/Documents)
 
-
-
-## Contacts
+## 📧 Contacts
 
 - [![Email](https://img.shields.io/badge/Email-rajatvermaa95%40gmail.com-green)](mailto:rajatvermaa95@gmail.com)
 - [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/rajatt95)
