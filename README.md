@@ -105,7 +105,6 @@ The tests follow a modular and maintainable structure:
 |-- cypress.config.js
 |-- package.json
 ```
-
 - `cypress/e2e`: Contains the actual test files. You can organize your tests into subdirectories as needed. 
 - `cypress/support`: Contains custom commands and global configuration.
 - `cypress/support/pages`: Contains the Page Object Model (POM) classes representing web pages and their elements.
@@ -138,18 +137,19 @@ The tests follow a modular and maintainable structure:
 
 ## Contacts
 
-## Contacts
+- [![Email](https://img.shields.io/badge/Email-rajatvermaa95%40gmail.com-green)](mailto:rajatvermaa95@gmail.com)
+- [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/rajatt95)
+- [![GitHub Page](https://img.shields.io/badge/GitHub-Page-lightgrey)](https://rajatt95.github.io/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rajatt95)
+- [![Topmate](https://img.shields.io/badge/Topmate-Profile-red)](https://topmate.io/rajatt95)
+- [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/rajatt95)
+- [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange)](https://www.instagram.com/rajattvermaa95/)
+- [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@rajatt95)
+- [![WhatsApp Community](https://img.shields.io/badge/WhatsApp-Community-brightgreen)](https://chat.whatsapp.com/LP20xMGvxnEL88GoB58bo1)
+- [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-brightgreen)](https://whatsapp.com/channel/0029Va9XXMhJ93waOU5Xer3r)
 
-- [![Email](https://img.shields.io/badge/Email-rajatvermaa95%40gmail.com-green?style=for-the-badge&logo=gmail)](mailto:rajatvermaa95@gmail.com)
-- [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/rajatt95)
-- [![GitHub Page](https://img.shields.io/badge/GitHub-Page-lightgrey?style=for-the-badge&logo=github)](https://rajatt95.github.io/)
+Feel free to reach out if you have any questions, or suggestions, or just want to chat!
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajatt95)
-- [![Topmate](https://img.shields.io/badge/Topmate-Profile-red?style=for-the-badge&logo=topmate)](https://topmate.io/rajatt95)
-- [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/rajatt95)
+Thanks for visiting my GitHub profile! 😊
 
-
-- [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/rajattvermaa95/)
-- [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@rajatt95)
-- [![WhatsApp Community](https://img.shields.io/badge/WhatsApp-Community-brightgreen?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/LP20xMGvxnEL88GoB58bo1)
-- [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-brightgreen?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Va9XXMhJ93waOU5Xer3r)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatt95&label=Profile%20views&color=0e75b6&style=flat" alt="rajatt95" /> </p>
