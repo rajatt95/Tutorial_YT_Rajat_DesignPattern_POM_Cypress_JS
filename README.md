@@ -13,7 +13,8 @@
 - [Running Tests](#running-tests)
 - [Project Structure](#project-structure)
 - [Configuration](#configuration)
-- [Acknowledgments](#acknowledgments)
+- [Other Projects](#other-projects)
+- [Technical Documents](#technical-documents)
 - [Contacts](#contacts)
 
 ## Introduction
@@ -115,12 +116,7 @@ The tests follow a modular and maintainable structure:
 - Modify `cypress.config.json` for Cypress configuration settings.
 - Customize `commands.js` and other files in `cypress/support` for reusable commands.
 
-## Acknowledgments
-
-- [![Cypress Documentation](https://img.shields.io/badge/Cypress_Documentation-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://docs.cypress.io/)
-- [![Cypress Automation Frameworks](https://img.shields.io/badge/Cypress_Automation_Frameworks-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://github.com/stars/rajatt95/lists/cypress-automation-frameworks)
-
-## 🔭  Other Projects - Test Automation Frameworks
+## Other Projects
 
 - [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/stars/rajatt95/lists/programming-language-java)  - 
   [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/stars/rajatt95/lists/selenium-automation-frameworks)
@@ -134,7 +130,7 @@ The tests follow a modular and maintainable structure:
 - [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/stars/rajatt95/lists/programming-language-python) -
   [![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/stars/rajatt95/lists/requests-automation-framework)
 
-## 📄  Documents - Technical Topics
+## Technical Documents
 - [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1tne9pZjgWvfrS0l9tVHs6k1jnQHpTLoA?usp=sharing)
 - [![GitHub Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajatt95/Documents)
 
