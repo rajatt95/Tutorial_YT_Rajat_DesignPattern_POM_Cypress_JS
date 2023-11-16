@@ -1,18 +1,35 @@
-# Tutorial | POM | Cypress + JS
+ 
+---
+# Tutorial | Page Object Model (POM) 
 
-This repository contains a Tutorial for Page Object Model Design Pattern implementation using Cypress and Javascript.
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js.org/index.html)
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Video Tutorial](#video-tutorial)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Running Tests](#running-tests)
+- [Project Structure](#project-structure)
+- [Configuration](#configuration)
+- [Acknowledgments](#acknowledgments)
+- [Contacts](#contacts)
+
+## Introduction
+This repository contains a Tutorial for Page Object Model (POM) design pattern implementation using Cypress and Javascript for automated testing of web applications.
 
 ## Video Tutorial
 
-.............Link To be added.................
-<!-- [![Watch the tutorial](https://img.youtube.com/vi/TqlQEa_a9AU/0.jpg)](https://www.youtube.com/watch?v=TqlQEa_a9AU) -->
 
-<!-- Click on the image above to watch the tutorial. -->
+<a href="https://www.youtube.com/watch?v=xVlSLhB3VcA"> <img src="https://img.youtube.com/vi/xVlSLhB3VcA/0.jpg" alt="Tutorial | POM | Selenium WebDriver + Java" width="200"> </a>
+
+Click on the image above to watch the tutorial.
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) (v18.16.1 or higher recommended)
-- [npm](https://www.npmjs.com/) (v9.5.1 or higher recommended)
+- [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) (v18.16.1 or higher recommended)
+- [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/) (v9.5.1 or higher recommended)
 
 ## Getting Started
 
@@ -41,22 +58,28 @@ This repository contains a Tutorial for Page Object Model Design Pattern impleme
   ```bash
   npm run cy:open
   ```
+- Run tests in different browsers:
 
-- Run tests in ELECTRON browser (Headless mode):
-  ```bash
-  npm run cy:tests:ELECTRON:HEADLESS
-  ```
-- Run tests in CHROME browser:
+  - [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.google.com/chrome/)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://www.mozilla.org/firefox/)
+[![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://www.microsoft.com/edge/)
+[![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)
   ```bash
   npm run cy:tests:CHROME
   ```
-- Run tests in FIREFOX browser:
   ```bash
   npm run cy:tests:FIREFOX
   ```
-- Run tests in EDGE browser:
   ```bash
   npm run cy:tests:EDGE
+  ```
+  ```bash
+  npm run cy:tests:ELECTRON
+  ```
+
+- Run tests in different modes (Headless):
+  ```bash
+  npm run cy:tests:ELECTRON:HEADLESS
   ```
 
 ## Project Structure
@@ -94,5 +117,38 @@ The tests follow a modular and maintainable structure:
 
 ## Acknowledgments
 
-- [Cypress Documentation](https://docs.cypress.io/)
-- [Cypress Automation Frameworks](https://github.com/stars/rajatt95/lists/cypress-automation-frameworks)
+- [![Cypress Documentation](https://img.shields.io/badge/Cypress_Documentation-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://docs.cypress.io/)
+- [![Cypress Automation Frameworks](https://img.shields.io/badge/Cypress_Automation_Frameworks-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://github.com/stars/rajatt95/lists/cypress-automation-frameworks)
+
+## 🔭  Other Projects - Test Automation Frameworks
+
+- [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/stars/rajatt95/lists/programming-language-java)  - 
+  [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/stars/rajatt95/lists/selenium-automation-frameworks)
+  [![Appium](https://img.shields.io/badge/Appium-40C4FF?style=for-the-badge&logo=appium&logoColor=white)](https://github.com/stars/rajatt95/lists/appium-automation-frameworks)
+  [![Rest Assured](https://img.shields.io/badge/Rest%20Assured-5B47A5?style=for-the-badge&logo=rest-assured&logoColor=white)](https://github.com/stars/rajatt95/lists/restassured-automation-framework)
+
+- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/stars/rajatt95/lists/programming-language-javascript) - 
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://github.com/stars/rajatt95/lists/cypress-automation-frameworks)
+[![Playwright](https://img.shields.io/badge/Playwright-34495E?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/stars/rajatt95/lists/playwright-automation-frameworks)
+
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/stars/rajatt95/lists/programming-language-python) -
+  [![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/stars/rajatt95/lists/requests-automation-framework)
+
+## 📄  Documents - Technical Topics
+- [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1tne9pZjgWvfrS0l9tVHs6k1jnQHpTLoA?usp=sharing)
+- [![GitHub Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajatt95/Documents)
+
+
+
+## Contacts
+
+- [![Email](https://img.shields.io/badge/Email-rajatvermaa95%40gmail.com-green)](mailto:rajatvermaa95@gmail.com)
+- [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/rajatt95)
+- [![GitHub Page](https://img.shields.io/badge/GitHub-Page-lightgrey)](https://rajatt95.github.io/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rajatt95)
+- [![Topmate](https://img.shields.io/badge/Topmate-Profile-red)](https://topmate.io/rajatt95)
+- [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/rajatt95)
+- [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange)](https://www.instagram.com/rajattvermaa95/)
+- [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@rajatt95)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Community-brightgreen)](https://chat.whatsapp.com/LP20xMGvxnEL88GoB58bo1)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-brightgreen)](https://whatsapp.com/channel/0029Va9XXMhJ93waOU5Xer3r)
