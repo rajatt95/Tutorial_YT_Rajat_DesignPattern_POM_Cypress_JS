@@ -37,7 +37,7 @@
 - [Contacts](#contacts)
 
 ## 📖 Introduction
-This repository contains a Tutorial for Page Object Model (POM) design pattern implementation using Cypress and Javascript for automated testing of web applications.
+This repository contains a Tutorial for Page Object Model (POM) design pattern implementation using Cypress and Javascript for automated testing of applications.
 
 ## 🎥 Video Tutorial
 
